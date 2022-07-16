@@ -8,5 +8,5 @@ def main(a):
     """
     # Write your code here
     return a>=0
-x=main(5)
+x=main(50)
 print(x)
