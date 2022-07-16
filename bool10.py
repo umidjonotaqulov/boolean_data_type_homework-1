@@ -7,5 +7,5 @@ def main(a):
     """
     # Write your code here
     return a**2
-x=main(12)
+x=main(18)
 print(x)
