@@ -7,6 +7,6 @@ def main(a):
         bool
     """
     # Write your code here
-    return sqrt(a)**2==a
+    return int(sqrt(a))**2==a
 x=main(int(16))
 print(x)
